@@ -1,4 +1,10 @@
 ##############################################################################
+# Copyright (c) 2013, Konstantinos Makantasis
+# All rights reserved.
+#
+# Distributed under the terms of the BSD Simplified License
+#
+#
 # Main script to run visual attention construction code
 #
 # DEPENDENCIES: 1) OpenCV
