@@ -16,7 +16,7 @@
 #                   localLines = localCues[2]
 #                   localColor = localCues[3]
 #                   localEntropy = localCues[4]
-# The same mapping hold for global and window descriptors
+# The same mapping holds for global and window descriptors
 ##############################################################################
 
 
