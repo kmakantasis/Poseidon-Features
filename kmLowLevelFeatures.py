@@ -1,4 +1,10 @@
-# -*- coding: utf-8 -*-
+##############################################################################
+# Copyright (c) 2013, Konstantinos Makantasis
+# All rights reserved.
+#
+# Distributed under the terms of the BSD Simplified License
+#
+##############################################################################
 
 import cv2
 import numpy as np
